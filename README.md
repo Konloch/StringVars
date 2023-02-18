@@ -1,5 +1,5 @@
 # StringVars
-StringVars is a zero dependency pure Java solution to create recursive String variables, such as $var$ or %var%.
+StringVars is a zero dependency pure Java solution to create recursive String variables, such as `$var$` or `%var%`.
 
 ## How To Add As Library
 Add it as a maven dependency or just [download the latest release](https://github.com/Konloch/StringVars/releases).
