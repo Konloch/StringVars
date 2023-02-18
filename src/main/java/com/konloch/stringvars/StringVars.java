@@ -14,8 +14,8 @@ public class StringVars
 	 * @param rsf an implementation of a String key / value search
 	 * @return the fully extracted String
 	 */
-	public static String getVariableValue(char delimiter, OriginalReturnStringFunction originalRSF,
-	                                      ReturnStringFromKeyFunction rsf)
+	public static String getVariableValue(char delimiter, OriginalReturnString originalRSF,
+	                                      ReturnStringFromKey rsf)
 	{
 		String value = originalRSF.getString();
 		

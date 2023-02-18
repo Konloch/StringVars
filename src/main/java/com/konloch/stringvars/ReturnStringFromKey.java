@@ -4,7 +4,7 @@ package com.konloch.stringvars;
  * @author Konloch
  * @since 2/10/2023
  */
-public interface ReturnStringFromKeyFunction
+public interface ReturnStringFromKey
 {
 	/**
 	 * Return the String specified by the key value supplied.
