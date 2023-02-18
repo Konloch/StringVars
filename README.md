@@ -12,7 +12,7 @@ Add it as a maven dependency or just [download the latest release](https://githu
 ```
 
 ## How To Use
-[Click here for the StringHolderExample class](https://github.com/Konloch/StringVars/)
+[Click here for the StringHolderExample class](https://github.com/Konloch/StringVars/blob/main/src/main/test/java/com/konloch/TestStringVars.java)
 ```java
 StringHolderExample example = new StringHolderExample()
 {
