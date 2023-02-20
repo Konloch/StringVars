@@ -11,6 +11,11 @@ Add it as a maven dependency or just [download the latest release](https://githu
 </dependency>
 ```
 
+## Links
+* [Website](https://konloch.com/StringVars/)
+* [Discord Server](https://discord.gg/aexsYpfMEf)
+* [Download Releases](https://github.com/Konloch/StringVars/releases)
+
 ## How To Use
 [Click here for the StringHolderExample class](https://github.com/Konloch/StringVars/blob/main/src/main/test/java/com/konloch/TestStringVars.java)
 ```java
