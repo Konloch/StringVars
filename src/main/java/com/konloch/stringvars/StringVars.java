@@ -28,6 +28,12 @@ public class StringVars
 		{
 			char c = chars[i];
 			
+			if(escaped && c != delimiter)
+			{
+				escaped = false;
+				parsedValue.append('\\');
+			}
+			
 			if (c == '\\')
 			{
 				escaped = true;
