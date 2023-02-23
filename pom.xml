@@ -3,7 +3,7 @@
 	
 	<groupId>com.konloch</groupId>
 	<artifactId>StringVars</artifactId>
-	<version>1.0.0</version>
+	<version>1.0.1</version>
 
 	<name>StringVars</name>
 	<description>StringVars is a zero dependency pure Java solution to create recursive String variables, such as $var$ or %var%.</description>
